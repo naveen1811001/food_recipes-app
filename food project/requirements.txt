@@ -1,0 +1,8 @@
+This file lists all the dependencies needed for your project. 
+Since your project is primarily using front-end technologies and fetching data via an API, the requirements are minimal.
+flask                # If using Flask for a backend server (optional)
+requests             # For making API requests in Python (optional)
+If your project is purely front-end without any Python/Flask backend, you might not need this file. 
+But if you're planning to expand the project with a backend, this setup will be helpful.
+
+
